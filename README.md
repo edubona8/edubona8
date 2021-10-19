@@ -7,7 +7,7 @@
 
  <a href="https://www.linkedin.com/in/eduardo-bonamico-viana-2b23b721b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-
+<img align="right" alt="Bona-gif" src="https://cdn.discordapp.com/attachments/575471699798261760/899838743060561920/undefined_-_Imgur.gif">
 ##
 
 <div align="center">
