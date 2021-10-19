@@ -1,4 +1,4 @@
-<img align="right" alt="Bona-gif" height="250px" width="300px" src="https://cdn.discordapp.com/attachments/575471699798261760/899838743060561920/undefined_-_Imgur.gif">
+<img align="right" alt="Bona-gif" height="225px" width="300px" src="https://cdn.discordapp.com/attachments/575471699798261760/899838743060561920/undefined_-_Imgur.gif">
 <br>
 
 ### Hii, Let me introduce myself. My name is Eduardo!
