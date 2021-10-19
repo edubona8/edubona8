@@ -7,13 +7,11 @@
 
  <a href="https://www.linkedin.com/in/eduardo-bonamico-viana-2b23b721b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-<img align="right" alt="Bona-gif" src="https://cdn.discordapp.com/attachments/575471699798261760/899838743060561920/undefined_-_Imgur.gif">
+<img align="right" alt="Bona-gif" height="250px" width="300px" src="https://cdn.discordapp.com/attachments/575471699798261760/899838743060561920/undefined_-_Imgur.gif">
 
 ##
 
 <div align="center">
-  <br>
-  <br>
   <a href="https://github.com/edubona8">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=edubona8&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edubona8&layout=compact&langs_count=7&theme=dark"/>
