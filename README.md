@@ -3,7 +3,7 @@
 
 ### Hii, Let me introduce myself. My name is Eduardo!
  - I study at ecole 42 - São Paulo.
- - I'm learning C and Bash.
+ - I am currently learning C & Bash.
 
  <a href="https://www.linkedin.com/in/eduardo-bonamico-viana-2b23b721b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
