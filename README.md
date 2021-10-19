@@ -1,1 +1,2 @@
-<div style="width:100%;height:0;padding-bottom:53%;position:relative;"><iframe src="https://giphy.com/embed/fsoCk5kgOcYMM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ghost-shell-outghost-fsoCk5kgOcYMM">via GIPHY</a></p>
+
+![undefined - Imgur](https://user-images.githubusercontent.com/87132928/137827129-944d996b-6d22-4ed9-8dd9-52b71f129e3b.gif)
