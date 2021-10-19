@@ -6,9 +6,7 @@
  - I'm learning C and Bash.
  
 
-<br>
-
-<p>
+##
 
 <div align="center">
   <a href="https://github.com/edubona8">
