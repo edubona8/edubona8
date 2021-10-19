@@ -7,6 +7,7 @@
  - • I study at ecole 42 - São Paulo.
  - • I'm learning C and Bash.
 
+<h1></h1>
 
 <div align="left">
   <a href="https://github.com/edubona8">
