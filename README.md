@@ -1,9 +1,3 @@
-
-<img align="right" alt="Bona-Bash" height="300px" width="400px" src=https://cdn.discordapp.com/attachments/575471699798261760/899838743060561920/undefined_-_Imgur.gif>
-<br>
-
-<p>
-
 <h1></h1>
 
 ### Hii, Let me introduce myself. My name is Eduardo!
