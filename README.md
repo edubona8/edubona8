@@ -8,7 +8,9 @@
  - I'm learning C and Bash.
  <img align="right" alt="Bona-Bash" height="500px" width="500px" src=https://cdn.discordapp.com/attachments/575471699798261760/899838743060561920/undefined_-_Imgur.gif>
 
-<h1></h1>
+<br>
+
+<p>
 
 <div align="left">
   <a href="https://github.com/edubona8">
