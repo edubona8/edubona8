@@ -1,6 +1,5 @@
 <img align="right" alt="Bona-gif" height="250px" width="300px" src="https://cdn.discordapp.com/attachments/575471699798261760/899838743060561920/undefined_-_Imgur.gif">
 <br>
-<h1></h1>
 
 ### Hii, Let me introduce myself. My name is Eduardo!
  - I study at ecole 42 - São Paulo.
