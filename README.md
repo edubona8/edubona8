@@ -1,4 +1,13 @@
 ![undefined - Imgur](https://user-images.githubusercontent.com/87132928/137827129-944d996b-6d22-4ed9-8dd9-52b71f129e3b.gif)
+
+<h1><\h1>
+
+### Hii, Let me introduce myself. My name is Eduardo!
+  
+  • I study at ecole 42 - São Paulo.
+  • I'm learning C and Bash.
+
+
 <div align="left">
   <a href="https://github.com/edubona8">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=edubona8&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
